@@ -1,2 +1,2 @@
-# aula-boots
+# aula-bootstrap
 utilizando bootstrap
